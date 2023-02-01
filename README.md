@@ -1,6 +1,8 @@
 Primera pre-entrega Coderhouse React 44995
 
-Briones
+Alumno: Briones Gabriel
+
+Tienda realizada en React: Jano Sustentable, tienda de artículos de cuidado personal sustentables con el medio ambiente.
 
 # Getting Started with Create React App
 
