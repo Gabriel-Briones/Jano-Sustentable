@@ -1,15 +1,15 @@
 export const Categorias = () => {
     return (
-       <li className="nav-item dropdown">
+        <li className="nav-item dropdown">
             <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Dropdown
+                Conocenos
             </a>
             <ul className="dropdown-menu">
-              <li><a className="dropdown-item" href="#">Action</a></li>
-              <li><a className="dropdown-item" href="#">Another action</a></li>
-              <li><hr className="dropdown-divider" /></li>
-              <li><a className="dropdown-item" href="#">Something else here</a></li>
+                <li><a className="dropdown-item" href="#">Sobre Nosotros</a></li>
+                <li><a className="dropdown-item" href="#">Conejos Sustentables</a></li>
+                <li><hr className="dropdown-divider" /></li>
+                <li><a className="dropdown-item" href="#">Se parte de Jano</a></li>
             </ul>
-      </li>
+        </li>
     )
-  }
+}
