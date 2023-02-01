@@ -6,7 +6,7 @@ export const Categorias = () => {
             </a>
             <ul className="dropdown-menu">
                 <li><a className="dropdown-item" href="#">Sobre Nosotros</a></li>
-                <li><a className="dropdown-item" href="#">Conejos Sustentables</a></li>
+                <li><a className="dropdown-item" href="#">Consejos Sustentables</a></li>
                 <li><hr className="dropdown-divider" /></li>
                 <li><a className="dropdown-item" href="#">Se parte de Jano</a></li>
             </ul>
